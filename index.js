@@ -8,7 +8,7 @@ You should NOT try to redefine any of the above variables.
 
 // Write your code below this line!
 
-const counter = 0;
+const newId = ;
 
 
 
